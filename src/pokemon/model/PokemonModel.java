@@ -1,5 +1,6 @@
 package pokemon.model;
 
-public class PokemonModel {
+public class PokemonModel 
+{
 
 }
